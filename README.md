@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height = "30px" width="30px"> I'm Viram Jain</h1>
-<h3 align="center">git commit -m "Hello, I'm a Software Developer at Kaleyra"</h3>
+<h3 align="center">git commit -m "Hello, I'm a Software Developer at Radisys"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viram-jain&label=Profile%20views&color=0e75b6&style=flat" alt="viram-jain" /> </p>
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viram-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viram-jain-43450018b" height="30" width="40" /></a>
-<a href="https://instagram.com/virujain9799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virujain9799" height="30" width="40" /></a>
+<a href="https://instagram.com/viramvardhan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viramvardhan9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/virujain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="virujain" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/viramjain9742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="viramjain9742" height="30" width="40" /></a>
 </p>
