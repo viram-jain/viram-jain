@@ -7,7 +7,7 @@
 
 - 👨‍💻 All about me is at [My Website](https://viram-jain.github.io/)
 
-- 💬 Ask me about ``` topics := []string{ "Golang", "JAVA", "Python" } ```
+- 💬 Ask me about ``` topics = ["JavaScript", "Kotlin", "Swift", "Flutter", "React Native" } ```
 
 - 📫 You can reach me on [Email](mailto:viramjain9742@gmail.com)
 
